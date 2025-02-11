@@ -1,0 +1,6 @@
+este é um teste simples, de MQTT
+primeiro, abra duas páginas do google colab
+clica na caixa código, cole este código "!pip install paho-MQTT" e clique no icone de play (faça isso nas duas páginas)
+uma você ira colar o subscriber.py e na outra o publisher.py, e irá executar as duas
+ná página publisher.py irá ter uma caixa de texto para você publicar
+quando você publica algo, se tudo estiver certo, aparecerá na outra página subscriber.py
